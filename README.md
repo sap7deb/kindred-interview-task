@@ -24,3 +24,9 @@ This project contains end-to-end tests for the RealWorld example application usi
 To open the Cypress Test Runner, run:
 ```sh
 npx cypress open
+```
+
+To run the Cypress Test:
+```
+npx cypress run --browser chrome
+```
