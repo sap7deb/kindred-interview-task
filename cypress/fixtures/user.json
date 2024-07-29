@@ -1,0 +1,8 @@
+{
+  "username": "saptarshideb",
+  "email": "sap7deb@gmail.com",
+  "password": "Test1234",
+  "invalidemail": "invalidemailformat",
+  "wrongpsw": "wrongpassword",
+  "sqlinjection": "Select id from users where username=’username’ and password=’password’ or 1=1--+"
+}
